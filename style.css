@@ -1,0 +1,20 @@
+body {
+  background-color: #dfe6e9;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+  flex-wrap: nowrap;
+  align-content: flex-start;
+  font-family: 'Open Sans', sans-serif;
+}
+.container {
+  flex: 1;
+  width: 500px;
+}
+.italic {
+  font-style: italic;
+  font-size: 16px;
+}
